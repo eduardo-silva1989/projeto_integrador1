@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ouvidoria.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Ouvidoria.Web.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

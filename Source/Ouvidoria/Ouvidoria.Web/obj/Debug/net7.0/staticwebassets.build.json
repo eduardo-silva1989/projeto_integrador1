@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IvTA48QQdyDAGwdyYAGAANSuv+xl9oMTw57zZQxXL3s=",
+  "Hash": "wtIZXgUUWdRFvyzFKB8DknuWUYC3i4OZSUgmjcKy8kQ=",
   "Source": "Ouvidoria.Web",
   "BasePath": "_content/Ouvidoria.Web",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Ouvidoria.Web.styles.css",
-      "SourceId": "Ouvidoria.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Ouvidoria.Web",
-      "RelativePath": "Ouvidoria.Web.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Ouvidoria.Web.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ouvidoria.Web.bundle.scp.css",
-      "SourceId": "Ouvidoria.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Ouvidoria.Web",
-      "RelativePath": "Ouvidoria.Web.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ouvidoria.Web.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.Web\\wwwroot\\css\\site.css",
       "SourceId": "Ouvidoria.Web",

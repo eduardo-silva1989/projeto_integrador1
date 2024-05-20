@@ -1,7 +1,6 @@
 {
   "ContentRoots": [
-    "/app/wwwroot",
-    "/app/obj/Debug/net7.0/scopedcss/bundle"
+    "/app/wwwroot"
   ],
   "Root": {
     "Children": {
@@ -555,14 +554,6 @@
           }
         },
         "Asset": null,
-        "Patterns": null
-      },
-      "Ouvidoria.Web.styles.css": {
-        "Children": null,
-        "Asset": {
-          "ContentRootIndex": 1,
-          "SubPath": "Ouvidoria.Web.styles.css"
-        },
         "Patterns": null
       }
     },

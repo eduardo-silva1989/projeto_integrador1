@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Classes\Custom\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ouvidoria.Infrastructure\Ouvidoria.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "st5WX1jrjs/BSmhCpNBEtwZfUT6QZ9EdmoPY+NuN2kp6vLahfKjbH27C/G1D+zikvotYx/ZfLEoqlrccdiUS1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\Projeto Integrador I\\Source\\Ouvidoria\\Ouvidoria.WebApi\\Ouvidoria.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
